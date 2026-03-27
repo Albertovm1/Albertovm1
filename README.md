@@ -17,7 +17,7 @@
 ![about](https://img.shields.io/badge/-Who%20am%20I%3F-blue
 )
 
-> Sou Alberto, tenho 20 anos de idade, estudante do curso de engenharia da computação no IFPB.
+> I’m Alberto, a Computer Engineering student.
 
   
 #### These Are My Social Networks    
@@ -26,25 +26,3 @@
 )](https://www.instagram.com/albertovm_/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/albertovm_)
-  
-
-
-![about](https://img.shields.io/badge/-Tools:-blue
-)
-
-<div style="display: inline_block">
-   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-
-  <br>
-  
-![about](https://img.shields.io/badge/-Studying%20in%20this%20moment:-blue
-)
-
-<div style="display: inline_block">
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-</div>
