@@ -48,33 +48,3 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 </div>
-
- 
- <br>
-
- # ✨GitHub Status
-
-<div align="center">
-  
- <br>
-    
-  <a href="https://github.com/Albertovm1">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Albertovm1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertovm1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-
-
- <br>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertovm1}/count.svg" /></p> 
-<br></div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=VOLTE+SEMPRE!!!)](https://git.io/typing-svg)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000c6b&height=120&section=footer"/>
